@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
+
 My name is Sherry Yong Chen, and I am an ABD (all but dissertation) PhD candidate at MIT Linguistics. I also serve as a Diversity, Equity, and Inclusion (DEI) Fellow for MIT Graduate Student Council.
 
 
