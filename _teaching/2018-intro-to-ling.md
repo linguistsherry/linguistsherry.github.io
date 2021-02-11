@@ -8,13 +8,3 @@ date: 2018-09-01
 location: "Cambridge, MA"
 ---
 
-This is a description of a teaching experience. 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
