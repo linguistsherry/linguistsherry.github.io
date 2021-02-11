@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2020-lang-acquisition
 venue: "MIT Linguistics"
-date: 2020
+date: 2020-02-01
 location: "Cambridge, MA"
 ---
 
