@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: https://linguistsherry.github.io/publications/
 author_profile: true
 ---
 
