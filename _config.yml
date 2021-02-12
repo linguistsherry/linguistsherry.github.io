@@ -11,7 +11,7 @@ title                    : "Sherry Yong Chen"
 title_separator          : "-"
 name                     : &name "Sherry Yong Chen"
 description              : &description "MIT"
-url                      : https://linguistsherry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://linguistsherry.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "linguistsherry/linguistsherry.github.io"
 teaser                   : "profile.png"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Linguist, Data Analyst"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Linguistics @MIT"
+  bio              : "PhD Candidate in Linguistics at Massachusetts Institute of Technology"
   location         : "Cambridge, MA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=svLmcL8AAAAJ&hl=en"
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sherryychen2013/"
+  linkedin         : "sherryychen2013"
   orcid            : 
   pinterest        :
   soundcloud       :
