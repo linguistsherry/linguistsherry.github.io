@@ -1,14 +1,14 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://linguistsherry.github.io/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: https://linguistsherry.github.io/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://linguistsherry.github.io/teaching/    
        
   - title: "CV"
-    url: /cv/
+    url: https://linguistsherry.github.io/cv/
     
