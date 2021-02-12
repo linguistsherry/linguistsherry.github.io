@@ -11,49 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Linguistics, MIT, 2022 (expected)
+* M.Phil. in General Linguistics & Comparative Philology, University of Oxford, 2017
+* B.A. in General Linguistics, Language & Communication, University of Hong Kong, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2019: Research Intern @ *Centre for General Linguistics (ZAS)*, Berlin, Germany
+* 2019-2020: Graduate Researcher @ *MIT Computational Psycholinguistics Lab*, Cambridge MA
+* 2017-Present: Graduate Researcher @ *MIT Language Acquisition Lab*, Cambridge MA
+* 2015-2017: Research Assistant @ *Language and Brain Lab*, Oxford, UK
+* Spring 2015: Marketing Intern @ *Hong Kong University Press*, Hong Kong
+    
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Expertise: Natural Language Processing, Linguistics, Machine Learning, Language Data Annotation
+* Programming: Python (NLTK, PyTorch, pandas, Tensorflow), R, Shiny, Markdown, SQL, JavaScript (including WebPPL), HTML, CSS, git, LaTeX
+* Data skills: Data collection, data annotation, data processing, data visualization, statistical analysis (frequentist, Bayesian; GLM, GAM), computational modeling, experiment design, taxonomy design
+* Project skills: project management,  quantitative & qualitative research, oral & written presentation
+* Languages: English (near native), Mandarin (native), Cantonese (fluent), Brazilian Portuguese (beginner)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Diversity, Equity & Inclusion Fellow, Massachusetts Institute of Technology
+* Member, Committee on Ethnic Diversity in Linguistics, Linguistic Society of America
+* Equal Opportunity Ambassador, University of Hong Kong
+  
+Certificates (Coursera & MIT)
+======
+* Data Science \& Machine Learning:
+  * Inferential Statistics
+  * Logistic Regression
+  * Practical Machine Learning
+  * SQL for Data Science
+  * Data Wrangling, Analysis, and AB Testing with SQL
+  * Neural Networks and Deep Learning
+* Natural Language Processing Specialization:
+  * NLP with Classification and Vectors
+  * NLP with Probabilistic Models
+  * NLP with Sequence Models
+  * NLP with Attention Models
+  * NLP in TensorFlow}  
+* Teaching:
+  * MIT Subject Design Certificate Program
+  * MIT Lesson Planning Certificate Program
