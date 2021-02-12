@@ -40,19 +40,8 @@ Service and leadership
   
 Certificates (Coursera & MIT)
 ======
-* Data Science \& Machine Learning:
-  * Inferential Statistics
-  * Logistic Regression
-  * Practical Machine Learning
-  * SQL for Data Science
-  * Data Wrangling, Analysis, and AB Testing with SQL
+* Data Science & Machine Learning:
+  * Inferential Statistics; Logistic Regression; Practical Machine Learning; 
+  * SQL for Data Science; Data Wrangling, Analysis, and AB Testing with SQL
   * Neural Networks and Deep Learning
-* Natural Language Processing Specialization:
-  * NLP with Classification and Vectors
-  * NLP with Probabilistic Models
-  * NLP with Sequence Models
-  * NLP with Attention Models
-  * NLP in TensorFlow}  
-* Teaching:
-  * MIT Subject Design Certificate Program
-  * MIT Lesson Planning Certificate Program
+* Natural Language Processing Specialization: NLP with Classification and Vectors, NLP with Probabilistic Models, NLP with Sequence Models, NLP with Attention Models, NLP in TensorFlow
