@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "NLP Projects"
+permalink: /nlp/
 author_profile: true
 ---
 
