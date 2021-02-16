@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -20,7 +21,8 @@ Work experience
 * 2017-Present: Graduate Researcher @ *MIT Language Acquisition Lab*, Cambridge MA
 * 2015-2017: Research Assistant @ *Language and Brain Lab*, Oxford, UK
 * Spring 2015: Marketing Intern @ *Hong Kong University Press*, Hong Kong
-    
+ 
+ 
 Skills
 ======
 * Expertise: Natural Language Processing, Linguistics, Machine Learning, Language Data Annotation
@@ -35,6 +37,7 @@ Service and leadership
 * Diversity, Equity & Inclusion Fellow, Massachusetts Institute of Technology
 * Member, Committee on Ethnic Diversity in Linguistics, Linguistic Society of America
 * Equal Opportunity Ambassador, University of Hong Kong
+  
   
 Certificates (Coursera & MIT)
 ======
