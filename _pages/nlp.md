@@ -25,7 +25,7 @@ I serve as a Graduate Assisant in the Spring 2021 Project, <b>"Technology and La
 </p>
 
 <p>
-I serve on the Executive Board as the (co-)Director of Operations, mainly responsible managing projects for <b>the Sandbox initiative</b>. The initiative intends to be at the intersection between language and technology, to support projects that help spread awareness on the significance of multilingual education.
+I serve on the Executive Board as the (co-)Director of Operations, mainly responsible for managing projects in <b>the Sandbox initiative</b>. The initiative intends to be at the intersection between language and technology, to support projects that help spread awareness on the significance of multilingual education.
 </p>
 
 
