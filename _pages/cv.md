@@ -13,7 +13,8 @@ Education
 * M.Phil. in General Linguistics & Comparative Philology, University of Oxford, 2017
 * B.A. in General Linguistics, Language & Communication, University of Hong Kong, 2015
 
-Work experience
+
+Work & Research Experiences
 ======
 * Summer 2019: Research Intern @ *Centre for General Linguistics (ZAS)*, Berlin, Germany
 * 2019-2020: Graduate Researcher @ *MIT Computational Psycholinguistics Lab*, Cambridge MA
@@ -31,7 +32,7 @@ Skills
 * Languages: English (near native), Mandarin (native), Cantonese (fluent), Brazilian Portuguese (beginner)
 
 
-Service and leadership
+Service and Leadership
 ======
 * Diversity, Equity & Inclusion Fellow, Massachusetts Institute of Technology
 * Member, Committee on Ethnic Diversity in Linguistics, Linguistic Society of America
