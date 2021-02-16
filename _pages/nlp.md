@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "A selection of current and past NLP projects"
 permalink: /nlp/
 author_profile: true
 ---
@@ -26,3 +27,12 @@ I serve as a Graduate Assisant in the Spring 2021 Project, <b>"Technology and La
 <p>
 I serve on the Executive Board as the (co-)Director of Operations, mainly responsible managing projects for <b>the Sandbox initiative</b>. The initiative intends to be at the intersection between language and technology, to support projects that help spread awareness on the significance of multilingual education.
 </p>
+
+
+[NLP/Language Engineer Internship @ Principal Financial Group](https://www.principal.com)
+---
+
+<p>
+I will be starting an NLP/Language Engineer 2021 Summer Internship on the Data Science Team at Principal Financial Group.
+</p>
+
