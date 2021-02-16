@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "A selection of current and past NLP projects"
+title: "A selection of current and past NLP projects and experiences"
 permalink: /nlp/
 author_profile: true
 ---
@@ -29,10 +29,10 @@ I serve on the Executive Board as the (co-)Director of Operations, mainly respon
 </p>
 
 
-[NLP/Language Engineer Internship @ Principal Financial Group](https://www.principal.com)
+NLP/Language Engineer Internship
 ---
 
 <p>
-I will be starting an NLP/Language Engineer 2021 Summer Internship on the Data Science Team at Principal Financial Group.
+In May 2021, I will be starting as an NLP/Language Engineer Summer Intern on the Data Science Team at <b>[Principal Financial Group](https://www.principal.com)</b>.
 </p>
 
