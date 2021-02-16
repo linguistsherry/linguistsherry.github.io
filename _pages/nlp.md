@@ -33,6 +33,6 @@ NLP/Language Engineer Internship
 ---
 
 <p>
-In May 2021, I will be starting as an NLP/Language Engineer Summer Intern on the Data Science Team at the <b>[Principal Financial Group](https://www.principal.com)</b>.
+In May 2021, I will be starting as an NLP/Language Engineer Summer Intern on the Data Science Team at the <b>Principal Financial Group</b>.
 </p>
 
