@@ -5,13 +5,13 @@ author_profile: true
 ---
 
 
-<h1>Education</h1>
+Education
 ======
 * Ph.D in Linguistics, MIT, 2022 (expected)
 * M.Phil. in General Linguistics & Comparative Philology, University of Oxford, 2017
 * B.A. in General Linguistics, Language & Communication, University of Hong Kong, 2015
 
-<h1>Work experience</h1>
+Work experience
 ======
 * Summer 2019: Research Intern @ *Centre for General Linguistics (ZAS)*, Berlin, Germany
 * 2019-2020: Graduate Researcher @ *MIT Computational Psycholinguistics Lab*, Cambridge MA
@@ -19,8 +19,8 @@ author_profile: true
 * 2015-2017: Research Assistant @ *Language and Brain Lab*, Oxford, UK
 * Spring 2015: Marketing Intern @ *Hong Kong University Press*, Hong Kong
  
- 
-<h1>Skills</h1>
+
+Skills
 ======
 * Expertise: Natural Language Processing, Linguistics, Machine Learning, Language Data Annotation
 * Programming: Python (NLTK, PyTorch, pandas, Tensorflow), R, Shiny, Markdown, SQL, JavaScript (including WebPPL), HTML, CSS, git, LaTeX
@@ -29,14 +29,14 @@ author_profile: true
 * Languages: English (near native), Mandarin (native), Cantonese (fluent), Brazilian Portuguese (beginner)
 
 
-<h1>Service and leadership</h1>
+Service and leadership
 ======
 * Diversity, Equity & Inclusion Fellow, Massachusetts Institute of Technology
 * Member, Committee on Ethnic Diversity in Linguistics, Linguistic Society of America
 * Equal Opportunity Ambassador, University of Hong Kong
   
   
-<h1>Certificates (Coursera & MIT)</h1>
+Certificates (Coursera & MIT)
 ======
 * Data Science & Machine Learning:
   * Inferential Statistics; Logistic Regression; Practical Machine Learning; 
