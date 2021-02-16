@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[full academic CV](https://www.linkedin.com/feed/)"
 title-heading: false
 permalink: /cv/
 author_profile: true
