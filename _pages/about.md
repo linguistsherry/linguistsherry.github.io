@@ -20,5 +20,5 @@ In my dissertation, I investigate the non-uniformity of presupposition projectio
 
 NLP and Computational Linguistics
 ======
-I have worked on computational projects related to language model evaluation and ambiguity resolution.
-In Summer 2021, I am completing an NLP/Language Engineer Internship at Principal Financial Group.
+I have worked on various computational projects related to language model evaluation and ambiguity resolution.
+In Summer 2021, I will be starting as an NLP/Language Engineer Internship at Principal Financial Group.
