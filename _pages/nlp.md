@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "A selection of current and past NLP projects and experiences"
+title: "A selection of recent NLP projects and experiences"
 permalink: /nlp/
 author_profile: true
 ---
@@ -9,11 +9,11 @@ author_profile: true
 ---
 
 <p>
-<b>Digital Humanities</b> was established with the goal of "advancing the humanities with code, communication, and community". We use state-of-the-art digital tools to enrich education and research in the humanities. Our programs integrate digital and humanities education, teaching, and research.
+<b>Digital Humanities</b> was established with the goal of "advancing the humanities with code, communication, and community". Our programs integrate digital and humanities education, teaching, and research, using state-of-the-art digital tools to enrich education and research in the humanities. 
 </p>
 
 <p>
-I serve as a Graduate Assisant in the Spring 2021 Project, <b>"Technology and Language Learning"</b>. My main responsibilities include assistanting NLP tasks in the project, and mentoring a group of around 20 undergraduate students with a Computer Science background. My supervisors were Professor Stephanie Ann Frampton (Faculty Director) and Ryaan Ahmed (Technical Director).
+I serve as a Graduate Assisant in the Spring 2021 Project, <b>"Machine Learning Applications for Remote Language Instruction"</b>. My main responsibilities include assistanting NLP tasks in the project and mentoring a group of 20+ undergraduate students mostly with a Computer Science background. My supervisors were Professor Stephanie Ann Frampton (Faculty Director), Takako Aikawa (Faculty Fellow), Ryaan Ahmed (Technical Director).
 </p>
 
 
@@ -25,7 +25,7 @@ I serve as a Graduate Assisant in the Spring 2021 Project, <b>"Technology and La
 </p>
 
 <p>
-I serve on the Executive Board as the (co-)Director of Operations, mainly responsible for managing projects in <b>the Sandbox initiative</b>. The initiative intends to be at the intersection between language and technology, to support projects that help spread awareness on the significance of multilingual education.
+I serve on TLP's Executive Board as the (co-)Director of Operations, mainly responsible for managing projects in <b>the Sandbox initiative</b>. The initiative intends to be at the intersection between language and technology, to support projects that help spread awareness on the significance of multilingual education.
 </p>
 
 
