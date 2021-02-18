@@ -1,5 +1,7 @@
 ---
 layout: archive
+title: "CV"
+excerpt: "Education"
 permalink: /cv/
 author_profile: true
 ---
