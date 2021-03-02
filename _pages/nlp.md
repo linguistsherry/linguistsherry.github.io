@@ -10,7 +10,7 @@ author_profile: true
 
 [MIT Programs in Digital Humanities](https://digitalhumanities.mit.edu) was established with the goal of "advancing the humanities with code, communication, and community". Our programs integrate digital and humanities education, teaching, and research, using state-of-the-art digital tools to enrich education and research in the humanities. 
 
-I participated in the Spring 2021 Project, <b>Machine Learning Applications for Remote Language Instruction</b>, as a graduate student. The lab supervisors for this project are Professor Stephanie Ann Frampton (Faculty Director), Takako Aikawa (Faculty Fellow), Ryaan Ahmed (Technical Director).
+I participated in the Spring 2021 Project, <b>Machine Learning Applications for Remote Language Instruction</b>, as a graduate affiliate where I contributed to writing software on a large team. The lab supervisors for this project are Professor Stephanie Ann Frampton (Faculty Director), Takako Aikawa (Faculty Fellow), Ryaan Ahmed (Technical Director).
 
 
 [The Language Project](https://www.the-language-project.org/index.html)
