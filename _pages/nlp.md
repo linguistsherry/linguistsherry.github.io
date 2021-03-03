@@ -10,7 +10,7 @@ author_profile: true
 
 [MIT Programs in Digital Humanities](https://digitalhumanities.mit.edu) was established with the goal of "advancing the humanities with code, communication, and community". Our programs integrate digital and humanities education, teaching, and research, using state-of-the-art digital tools to enrich education and research in the humanities. 
 
-I participated in the Spring 2021 Project, <b>Machine Learning Applications for Remote Language Instruction</b>, as a graduate affiliate where I contributed to writing software on a large team. The lab supervisors for this project are Professor Stephanie Ann Frampton (Faculty Director), Takako Aikawa (Faculty Fellow), Ryaan Ahmed (Technical Director).
+I participated in the Spring 2021 Project, <b>Machine Learning Applications for Remote Language Instruction</b>, as a graduate affiliate. My involvement ranges from brainstorming ideas for language learning tools to implementing frontend (written in JavaScript using the React framework for user interfaces) & backend (written in Python using the Django web framework for a RESTful API) designs, working  together closely with a team of MIT students in what we call "open hack" sessions. My lab supervisors are Professor Stephanie Ann Frampton (Faculty Director), Takako Aikawa (Faculty Fellow), Ryaan Ahmed (Technical Director).
 
 
 [The Language Project](https://www.the-language-project.org/index.html)
@@ -24,5 +24,5 @@ I serve on TLP's Executive Board as the <b>Co-Director of Operations</b>, respon
 NLP/Language Engineer Internship
 ---
 
-In May 2021, I will be starting as an NLP/Language Engineer Summer Intern on the Data Science Team at the [Principal Financial Group](https://www.principal.com).
+In May 2021, I will be starting as an NLP/Language Engineer Summer Intern at the [Principal Financial Group](https://www.principal.com), working on the Data Science Team.
 
