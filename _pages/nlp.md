@@ -13,10 +13,10 @@ Machine Learning for Language Learning
 I participated in the Spring 2021 Project, [Machine Learning Applications for Remote Language Instruction](https://github.com/dhmit/lang_learn), as a graduate affiliate. My involvement ranges from brainstorming ideas for language learning tools to implementing frontend (written in JavaScript using the React framework for user interfaces) & backend (written in Python using the Django web framework for a RESTful API) designs, working  together closely with a team of MIT students in what we call "open hack" sessions. My lab supervisors are Professor Stephanie Ann Frampton (Faculty Director), Takako Aikawa (Faculty Fellow), Ryaan Ahmed (Technical Director).
 
 
-[The Language Project](https://www.the-language-project.org/index.html)
+The Language Project
 ---
 
-<b>TLP</b> is a student-run, non-profit organization that promotes multilingual education for all. Our major objectives include building a strong alliance of diverse advocates to spread awareness on the importance of language education, empowering the next generation of youth passionate about multilingualism to take initiative in their local communities, and continuously seeking out innovative ways to drive language advocacy forward.
+[The Language Project](https://www.the-language-project.org/index.html) is a student-run, non-profit organization that promotes multilingual education for all. Our major objectives include building a strong alliance of diverse advocates to spread awareness on the importance of language education, empowering the next generation of youth passionate about multilingualism to take initiative in their local communities, and continuously seeking out innovative ways to drive language advocacy forward.
 
 I serve on TLP's Executive Board as the <b>Co-Director of Operations</b>, responsible for managing projects in [the Sandbox initiative](https://www.the-language-project.org/sandbox.html). The initiative intends to be at the intersection between language and technology, to provide resources and technical support for projects that empower multilingual education.
 
