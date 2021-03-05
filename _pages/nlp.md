@@ -12,7 +12,7 @@ Machine Learning for Language Learning
 
 I participated in the Spring 2021 Project, [Machine Learning Applications for Remote Language Instruction](https://github.com/dhmit/lang_learn), as a graduate affiliate. The goal for this project is to develop new software tools that leverage techniques from machine learning, computational linguistics, and modern web application development to enrich the ways that language instructors teach online. It aims to produce real-world impact: if successful, the software we create will be used by language instructors in MIT Global Languages as well as outside the Institute.
 
-My involvement ranges from brainstorming ideas for language learning tools to implementing frontend (written in JavaScript using the React framework for user interfaces) & backend (written in Python using the Django web framework for a RESTful API) designs, working  together closely with a team of MIT students under the supervision of Professor Stephanie Ann Frampton (Faculty Director), Takako Aikawa (Faculty Fellow), and Ryaan Ahmed (Technical Director).
+My involvement ranges from brainstorming ideas for language teaching/learning tools, applying NLP techniques, to UI/UX design and full-stack web development, working  together closely with a team of MIT students under the supervision of Professor Stephanie Ann Frampton (Faculty Director), Takako Aikawa (Faculty Fellow), and Ryaan Ahmed (Technical Director).
 
 
 The Language Project
