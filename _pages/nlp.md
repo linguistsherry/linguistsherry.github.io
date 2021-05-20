@@ -26,5 +26,5 @@ I serve on TLP's Executive Board as the <b>Co-Director of Operations</b>, respon
 NLP/Language Engineer Internship
 ---
 
-In May 2021, I will be starting as an NLP/Language Engineer Summer Intern at the [Principal Financial Group](https://www.principal.com), working on the Data Science Team.
+In May 2021, I will be starting as an NLP/Language Engineer Summer Intern at the [Principal Financial Group](https://www.principal.com), working with the Data and Operations Research team at Principal Global Investors. 
 
