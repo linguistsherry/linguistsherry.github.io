@@ -9,7 +9,7 @@ author_profile: true
 NLP/Language Engineer Internship
 ---
 
-In May 2021, I will be starting as an NLP/Language Engineer Summer Intern at the [Principal Financial Group](https://www.principal.com), working with the Data and Operations Research team at Principal Global Investors. 
+In Summer 2021, I completed an NLP/Language Engineer Internship for [Principal Financial Group](https://www.principal.com), working on the Data and Operations Research team at Principal Global Investors. 
 
 
 Machine Learning for Language Learning
