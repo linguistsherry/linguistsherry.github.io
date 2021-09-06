@@ -9,16 +9,20 @@ redirect_from:
 ---
 
 
-My name is Sherry Yong Chen, and I am an ABD (all but dissertation) PhD candidate at MIT Linguistics. I also serve as a Diversity, Equity, and Inclusion (DEI) Fellow for MIT Graduate Student Council.
+My name is Sherry Yong Chen, and I am a PhD candidate in Linguistics at MIT (expected to complete in Summer 2022). I specialize in psycholinguistics, with experience in natural language processing, data analytics, and quantitative research. 
 
-
-As a linguist
+As a researcher
 ======
-I work primarily on semantics, pragmatics, and their interfaces, involving theoretical as well as experimental inquiries.
-In my dissertation, I investigate the non-uniformity of presupposition projection in conditionals, drawing empirical data from adult language comprehension and child acquisition.
+I am interested in exploring areas where linguistics, psychology, and computer science meet, with the goal to improve our understanding of how humans and machines acquire and comprehend language.
 
+My PhD work
+======
+I work primarily on semantics, pragmatics, and their interfaces, involving theoretical as well as experimental inquiries. In my dissertation, I investigate the non-uniformity of presupposition projection in complex linguistic environments (such as if-conditionals), drawing empirical data from adult language comprehension and child acquisition.
 
 NLP and Computational Linguistics
 ======
-I have worked on various computational projects related to language model evaluation and ambiguity resolution.
-In Summer 2021, I will be starting as an NLP/Language Engineer Internship at Principal Financial Group.
+I have worked on various research projects in computational linguistics, including language model evaluation and ambiguity resolution (see Research for details). 
+I code in Python, R, SQL, JavaScript, and HTML/CSS. I am also experienced in statistical modeling and experimental design, and have led multiple, cross-institutional/continental collaborative projects. In Summer 2021, I worked as an NLP/Language Engineer Intern on the Data Science Team at Principal Financial Group. 
+
+I’m a quick and avid leaner, always prepared to learn new things and develop my skillset. Beyond MIT, I have earned the Natural Language Processing Specialization Certificate offered by deeplearning.ai. 
+
