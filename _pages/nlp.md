@@ -9,7 +9,9 @@ author_profile: true
 NLP/Language Engineer Internship
 ---
 
-In Summer 2021, I completed an NLP/Language Engineer Internship for [Principal Financial Group](https://www.principal.com), working on the Data and Operations Research team at Principal Global Investors. 
+In Summer 2021, I completed an NLP/Language Engineer Internship for [Principal Financial Group](https://www.principal.com), working on the Data and Operations Research team at Principal Global Investors. In this role, I was involved in several projects that aimed at building sentiment models to measure the performance of financial agents. 
+
+As part of the Text Analytics team, I proposed and implemented new classifiers based on research, wrote regular expressions, performed linguistic annotations, evaluated model performance, and proposed refinements for the models. In addition, I helped came up with new taxonomy designs that contributed to the success of each project. I also suggested ideas to integrate state-of-the-art machine learning techniques into the automation pipeline. Check out my [LinkedIn profile](https://www.linkedin.com/in/linguistsherry/) for the reviews I have received for this role.
 
 
 Machine Learning for Language Learning
