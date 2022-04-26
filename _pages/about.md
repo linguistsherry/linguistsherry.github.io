@@ -11,7 +11,7 @@ redirect_from:
 
 My name is Sherry Yong Chen, and I am a PhD candidate in Linguistics at MIT (expected: June 2022). I specialize in psycholinguistics, with experience in natural language processing, data analytics, and quantitative research. 
 
-As a researcher
+As a language scientist
 ======
 I am interested in exploring areas where linguistics, psychology, and computer science meet, with the goal to improve our understanding of how humans and machines acquire and comprehend language.
 
