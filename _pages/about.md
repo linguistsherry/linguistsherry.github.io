@@ -13,16 +13,15 @@ My name is Sherry Yong Chen, and I am a PhD candidate in Linguistics at MIT (exp
 
 As a language scientist
 ======
-I am interested in exploring areas where linguistics, psychology, and computer science meet, with the goal to improve our understanding of how humans and machines acquire and comprehend language.
+I am interested in exploring areas where linguistics, psychology, and computer science meet, with the goal to improve our understanding of how humans and machines acquire and comprehend language. I code in Python, R, SQL, JavaScript, and HTML/CSS. I am also experienced in statistical modeling and experimental design, and have led multiple, cross-institutional/continental collaborative projects. 
 
 I’m a quick and avid leaner, always prepared to learn new things and develop my skillset. Beyond MIT, I have earned the Natural Language Processing Specialization Certificate offered by deeplearning.ai. 
 
 My PhD work
 ======
-I work primarily on how meaning is processed and acquired (semantics and pragmatics). In my doctoral dissertation, I investigated how presuppositions -- information taken for granted -- are understood in complex linguistic environments, drawing on novel empirical data from online experimentation with both adults and preschool-aged children. 
+I work primarily on semantics and pragmatics. My doctoral dissertation, which received a grant from the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2140399">[National Science Foundation]</a>, investigated how adults and preschool-aged children understand presuppositional - information in complex linguistic environments. 
 
-I have also worked on several research projects in computational linguistics, including language model evaluation and ambiguity resolution (see <a href="https://linguistsherry.github.io/nlp/">[NLP Projects]</a> and <a href="https://linguistsherry.github.io/research/">[Research]</a> for details). 
-I code in Python, R, SQL, JavaScript, and HTML/CSS. I am also experienced in statistical modeling and experimental design, and have led multiple, cross-institutional/continental collaborative projects. 
+I have also worked on several research projects in computational linguistics; see <a href="https://linguistsherry.github.io/nlp/">[NLP Projects]</a> and <a href="https://linguistsherry.github.io/research/">[Research]</a> for details. 
 
 Language technologies (industry)
 ======
