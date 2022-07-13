@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-My name is Sherry Yong Chen, and I am a PhD candidate in Linguistics at MIT (expected: June 2022). I specialize in psycholinguistics, with experience in natural language processing, data analytics, and quantitative research. 
+My name is Sherry Yong Chen, and I currently work as a Knowledge Engineer at Alexa AI - Information. In 2022, I completed my PhD in Linguistics from MIT, specializing in language processing and child language acquisition. I have experience in data analytics, natural language processing, and quantitative research. 
 
 As a language scientist
 ======
@@ -25,9 +25,7 @@ I have also worked on several research projects in computational linguistics; se
 
 Language technologies (industry)
 ======
-In Summer 2021, I interned as an NLP/Linguistics Engineer on the Data Science Team at Principal Financial Group. 
-
-In Summer 2022, I will begin working as Knowledge Engineer at Alexa AI - Information, based in Santa Barbara.
+I'm currently pursuing a career in language technologies. Prior to joining Amazon's Alexa team as full-time employee, I interned as an NLP/Linguistics Engineer on the Data Science Team at Principal Financial Group. If you are a graduate student in linguistics who is interested in exploring an industry career after completing PhD trainings, feel free to get in touch & chat with me! 
 
 
 
