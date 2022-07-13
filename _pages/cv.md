@@ -6,10 +6,15 @@ permalink: /cv/
 author_profile: true
 ---
 
+Employment
+======
+* Knowledge Engineer, Amazon Alexa AI, July 2022 - Present
+* NLP/Linguistics Engineer, Principal Financial Group, June - August 2021
+
 
 Education
 ======
-* Ph.D in Linguistics, MIT, 2022 (expected)
+* Ph.D in Linguistics, MIT, 2022
 * M.Phil. in General Linguistics & Comparative Philology, University of Oxford, 2017
 * B.A. in General Linguistics, Language & Communication, University of Hong Kong, 2015
 
