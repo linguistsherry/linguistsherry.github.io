@@ -17,7 +17,7 @@ I am interested in exploring areas where linguistics, psychology, and computer s
 
 My PhD work
 ======
-I work primarily on semantics and pragmatics. My doctoral dissertation, which received a grant from the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2140399">[National Science Foundation]</a>, investigated how adults and preschool-aged children understand presuppositional - information in complex linguistic environments. <a href="https://dspace.mit.edu/handle/1721.1/147224">[MIT Libraries Archive]</a>
+I work primarily on semantics and pragmatics. My doctoral dissertation, which received a grant from the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2140399">National Science Foundation</a>, investigated how adults and preschool-aged children understand presuppositional - information in complex linguistic environments. <a href="https://dspace.mit.edu/handle/1721.1/147224">[MIT Libraries Archive]</a>
 
 I have also worked on several research projects in computational linguistics; see <a href="https://linguistsherry.github.io/nlp/">[NLP Projects]</a> and <a href="https://linguistsherry.github.io/research/">[Research]</a> for details. 
 
