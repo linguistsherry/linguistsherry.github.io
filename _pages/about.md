@@ -21,7 +21,7 @@ I work primarily on semantics and pragmatics. My doctoral dissertation, which re
 
 I have also worked on several research projects in computational linguistics; see <a href="https://linguistsherry.github.io/nlp/">[NLP Projects]</a> and <a href="https://linguistsherry.github.io/research/">[Research]</a> for details. 
 
-Language technologies (industry)
+Language technologies and products
 ======
 I'm currently pursuing a career in language technologies. In my current role, I have led tPM projects coordinating with multiple teams across Amazon,  anazlying large-scale data across Alexa's 16 locales, and developing strategies for categories that make up 40% of Alexa's Knowledge Q&A traffic. Prior to joining Amazon's Alexa AI team, I interned as an NLP/Linguistics Engineer on the Data Science Team at Principal Financial Group. 
 
