@@ -8,7 +8,8 @@ author_profile: true
 
 Employment
 ======
-* Knowledge Engineer, Amazon Alexa AI, July 2022 - Present
+* Technical Program Manager, Amazon Artificial General Intelligence, Jan 2024 - Present
+* Knowledge Engineer, Amazon Alexa AI, July 2022 - Jan 2024
 * NLP/Linguistics Engineer, Principal Financial Group, June - August 2021
 
 
