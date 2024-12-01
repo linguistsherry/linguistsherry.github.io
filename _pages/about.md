@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I'm not longer actively maintaining this website; please connect with me on <a href="[https://dspace.mit.edu/handle/1721.1/147224](https://www.linkedin.com/in/linguistsherry/)">[LinkedIn]</a>**
+**I'm not longer actively maintaining this website; please connect with me on <a href="https://dspace.mit.edu/handle/1721.1/147224](https://www.linkedin.com/in/linguistsherry/)">[LinkedIn]</a>**
 
 My name is Sherry Yong Chen, and I currently work as a Technical Program Manager at Amazon Artificial General Intelligence. In 2022, I completed my PhD in Linguistics from MIT, specializing in language processing and child language acquisition. I have experience in technical product management and data analyses for language products. 
 
